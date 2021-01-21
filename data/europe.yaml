@@ -723,3 +723,9 @@
   long: 17.62871448787809
   address: Hungary, Győr, Egyetem tér 1.
   link: https://github.com/szenergy
+  - name: National University of Life and Envirommental Sciences of Ukraine
+  type:  research institute
+  lat: 50.380441
+  long: 30.494639
+  address: Heroiv Oborony St, 12К11, Kyiv, 03041, Ukraine
+  link: http://nubip.edu.ua
